@@ -1,2 +1,37 @@
 # Order-Chaos-ASCII
 ASCII Version of Order &amp; Chaos Logo
+
+```
+
+                                                  .,,;;,
+                                               .;;,...;::.
+                                             .;.       ;:;
+             ..                            .:,         ;;.
+          ,CSSSSC;         eSSSSOr.       ;eSSSSSC;   .;    ;SSSSSO         OSSSSOd
+         .SSe  dSS,        eSS, SSo      ;,;SS; ;SSo ,;     ;SSr;;.         OSC dSS;
+         ;SS;  ;SS;        eSSOSSr      ;; ;SS;  OS&;.      ;SS&SSO         OSSOSSr
+          &SA::AS&         eSO dSA.    ;;  ;SSe:CSO;        ;SSe:::         OS& CSC
+           ,:rr:,          ;o:  :o;   .:;...ooooor.      .  .SSSSSO.        :o; .oo,
+                                      .:rr.    .;      .;;
+                                     ;Ho:,    ,,  ;o; ;.                            ..;;
+                          .,;;;.   .&O;.;:;.,;.  rSO&;                        .;;rddr:eSA
+                     .;r&OSSSSSS, :Sr.  ,e:::;.  eHd,       ,;;  .;:drd;.,;rro;,.      ..
+                 ,;rOOro;rSSSSSSr&O;   dC,.;;;:::r:do,.,,;:::rr&OSAASSSSr;.
+              ;&SHo;.     ,rdooHSC.  ;Ao .;   ;ee&rdddo;,;o&OOd;, ;ASd..
+          ,o&SS&.           ;ddSd   eA, .;  ,rrHSSSSOr..rOSr;     ,HSSe;;&&;
+         .OSSA;            .OSSr  .H&.  ;  rH&OSOo    :OSe.         ,;dHSSSO;.
+        ;OSd,              .ASSSHrOr   ;.,H&rSSS;   .HSO;               .dSSSSHd;.
+       eSA,               .AH.,eSSS&o,;;rHre;SSS.  .ASA.                ;Oo  .;&SS&,
+      rSS,               ,OC. .HO;;dCr:&&Hr.rSSA;;oHSSArrrreo;        .eH,      ,HSS;
+     .SSS               ;S&  ,ASr;;;;rdHSAeeOSSr;..rSSH.  .;:;       :C:         dSH.
+     .SSSr.            ;SOo;&SC,.:&OSOo,   .OSS;   .ASSd          ;ee,         ;re;
+      ;CSSSCdooorre&rrSSr. ;SC    rS&;o.   ,SSS.     dSSAddo,,;:ed;       .;:oo;
+        .,;;::;;,..  &S;  ;SH   .rOr       dSS&        ,;:o;;;,.   ,;;;;;;;.
+                    &r;  ,OS,  :Ao        ;SSSC              .:;  ;,..
+                         AAo.oC:      .o dSSSSS;             ,d;
+                         .  ..         . ,;;;rC.            :;
+                                              ,
+           ..       ..         ...        .        ...       .      ,    ,      ...
+          ;         ;,;        ;..       ;,;        ;        ;       .  .       :..
+          ...       : ,        ;..       ,.,        ,        ,        ,,        ;..
+```
